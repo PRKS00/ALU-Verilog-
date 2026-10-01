@@ -1,0 +1,42 @@
+# Vivado generated files
+*.jou
+*.log
+*.str
+*.pb
+*.wdb
+*.wcfg
+*.dcp
+*.rpt
+*.rpx
+*.xml
+*.wdf
+*.rst
+*.bat
+*.sh
+*.tcl
+
+# Vivado generated directories
+*.cache/
+*.runs/
+*.hw/
+*.ip_user_files/
+*.sim/
+
+# Xilinx simulation/build artifacts
+xsim.dir/
+*.sdb
+*.exe
+*.obj
+*.so
+*.dll
+*.o
+
+# Vivado generated project metadata
+*.backup
+*.tmp
+
+# OS/editor files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
